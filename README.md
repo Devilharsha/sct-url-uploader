@@ -1,4 +1,4 @@
-## Uploader X  Bot
+## TANJIRO URL UPLODER
 ---
 
 Telegram RoBot to Upload Links.
